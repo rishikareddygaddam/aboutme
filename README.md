@@ -21,7 +21,7 @@ GitHub - to create repositories
 [!https://pbs.twimg.com/profile_images/1017516299143041024/fLFdcGsl_400x400.jpg]
 
 powershell - to easily required required for Git.
-[! Hosted image](https://pbcdn1.podbean.com/imglogo/image-logo/1769310/powershell.png)
+! [Hosted image](https://pbcdn1.podbean.com/imglogo/image-logo/1769310/powershell.png)
 
 [Visual studio](https://visualstudio.microsoft.com/) - to write the code in local machine and run on cloud.
 
