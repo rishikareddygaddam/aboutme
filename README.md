@@ -1,7 +1,5 @@
 # aboutme
 
-This is Rishika Reddy Gaddam from Hyderabad, India. I am currently pursuing masters in Applied Computer Science at Northwest Missouri State University. 
-
 ## Repository Links
 
 - [Source](https://github.com/rishikareddygaddam/aboutme "aboutme")
@@ -9,24 +7,41 @@ This is Rishika Reddy Gaddam from Hyderabad, India. I am currently pursuing mast
 
 ## About
 
-We are creating this repository to express about ourselves, mention our area of expertise and our interests.
+We are creating this repository to explore another method on how to publish a repo by developing code in our local machine and pushing to the hosting service.
 
 ## Recommended Tools
 
 #### The tools that are used to publish a repo are as follows -
 
-1. Git - is a distributed version control system to create repositories.
 
-2. [GitHub](https://github.com/ "github") - is a online service used to host the created repositories. We can also create, edit, clone, fork and publish the repositories.
+1. [GitHub](https://github.com/ "github") - is a online service used to host the created repositories. We can also create, edit, clone, fork and publish the repositories.
 
-3. [Visual studio](https://visualstudio.microsoft.com/) - to write the code in local machine and run on cloud using Git-commands.
+2. [Visual studio](https://visualstudio.microsoft.com/) - to write the code in local machine and run on cloud using Git-commands.
 
-4. [TortoiseGit](https://tortoisegit.org/) - is used as a menu of windows explorer which provides a variety of options like push, pull, merge, create a branch and so on..
+3. [TortoiseGit](https://tortoisegit.org/ "tortoise git") - is used as a menu of windows explorer which provides a variety of options like push, pull, merge, create a branch and so on..
 
-#### Language used are -
+4. **Notepad++** - is another editor to develop code for webpages.
 
-1. HTML
-2. JavaScript
+5. *Git* - is a distributed version control system to create repositories.
+
+
+#### Languages used are -
+
+- Markdown - is a language used to develop code for web using many styles like headings,formatting text, adding links, images and many more.
+
+## Recommended Resources
+
+- [Github pages](https://guides.github.com/features/pages/)
+- [W3schools](https://www.w3schools.com/whatis/whatis_github.asp)
+- [Youtube](https://www.youtube.com/watch?v=LR5BYZjuXMU)
+
+## Contributors
+
+Myself Rishika Reddy Gaddam, from Hyderabad, India. I am currently pursuing my first semester of masters  in Applied Computer Science at Northwest Missouri State University. 
+
+! [vscode] (https://hmsportal.org/wp-content/uploads/2018/03/badminton.jpg)
+
+
 
 
 
