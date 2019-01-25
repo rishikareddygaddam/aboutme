@@ -44,6 +44,7 @@ We are creating this repository to explore another method on how to publish a re
 ## Contributors
 
 Rishika Reddy Gaddam
+Applied Computer Science
 
 I love Badminton so this is my favourite image!
 
