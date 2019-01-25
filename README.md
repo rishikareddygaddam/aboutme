@@ -16,13 +16,13 @@ We are creating this repository to explore another method on how to publish a re
 
 1. [GitHub](https://github.com/ "github") - is a online service used to host the created repositories. We can also create, edit, clone, fork and publish the repositories.
 
-2. [Visual studio](https://visualstudio.microsoft.com/) - to write the code in local machine and run on cloud using Git-commands.
+1. [Visual studio](https://visualstudio.microsoft.com/) - to write the code in local machine and run on cloud using Git-commands.
 
-3. [TortoiseGit](https://tortoisegit.org/ "tortoise git") - is used as a menu of windows explorer which provides a variety of options like push, pull, merge, create a branch and so on..
+1. [TortoiseGit](https://tortoisegit.org/ "tortoise git") - is used as a menu of windows explorer which provides a variety of options like push, pull, merge, create a branch and so on..
 
-4. **Notepad++** - is another editor to develop code for webpages.
+1. **Notepad++** - is another editor to develop code for webpages.
 
-5. *Git* - is a distributed version control system to create repositories.
+1. *Git* - is a distributed version control system to create repositories.
 
 
 #### Languages used are -
