@@ -27,7 +27,7 @@ We are creating this repository to explore another method on how to publish a re
 
 #### Languages used are -
 
-- Markdown - is a language used to develop code for web using many styles like headings,formatting text, adding links, images and many more.
+- Markdown - is a language used to develop code for creating repos using many styles like headings,formatting text, adding links, images and many more.
 
 ## Recommended Resources
 
