@@ -39,7 +39,7 @@ We are creating this repository to explore another method on how to publish a re
 
 Myself Rishika Reddy Gaddam, from Hyderabad, India. I am currently pursuing my first semester of masters  in Applied Computer Science at Northwest Missouri State University. 
 
-! [vscode] (https://hmsportal.org/wp-content/uploads/2018/03/badminton.jpg)
+! [vscode]
 
 
 
