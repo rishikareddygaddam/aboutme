@@ -1,5 +1,11 @@
 # aboutme
 
+Myself Rishika Reddy gaddam currently pursuing my first semester of masters in Applied Computer Science at Northwest Missouri State University.
+
+I am from Hyderabad and I have a work experience of 18 months in Accenture where I worked as SAP Business Warehouse (BW) consultant and SAP UI5 consultant. I did my under-graduation in Information Technology  at Chaitanya Bharathi Institute of Technology.
+
+My hobbies are playing sports(badminton is favourite!), indoor games, reading novels(The Monk who sold his Ferrari is my favorite). 
+
 ## Repository Links
 
 - [Source](https://github.com/rishikareddygaddam/aboutme "aboutme")
@@ -37,8 +43,9 @@ We are creating this repository to explore another method on how to publish a re
 
 ## Contributors
 
-Myself Rishika Reddy Gaddam, from Hyderabad, India. I am currently pursuing my first semester of masters  in Applied Computer Science at Northwest Missouri State University. 
+Rishika Reddy Gaddam
 
+I love Badminton so this is my favourite image!
 ![vscode image](https://github.com/rishikareddygaddam/aboutme/raw/master/badminton.jpg?raw=true)
 
 
