@@ -1,0 +1,130 @@
+header{
+    padding-top : 4em;
+    border-style: groove;
+    /* border-color: palevioletred;
+     */
+    margin-bottom: 1em;
+    font-family: cursive
+}
+
+#cf{
+    padding-top: 5em;
+    padding-bottom: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+#conv{
+
+    
+}
+h1{
+    color: black;
+    margin-left: 0.10em;
+}
+
+h3{
+    color: black;
+}
+
+#smd{
+    color: black;
+}
+
+article{
+    border-style: groove;
+    border-color:whitesmoke;
+    border-radius: 20px;
+}
+#image1{
+    padding: 2em;
+    margin: 1em;    
+}
+
+#ovalimg{
+    border-radius: 70%;
+}
+
+section{
+    border-style: dashed;
+    padding: 2em;
+    margin: 1em;
+    border-radius: 20px;
+    border-color:whitesmoke;
+}
+
+.anker{
+    color:darkblue;  
+
+}
+
+#aside1{
+    color:black;
+}
+
+body{
+    background-repeat: no-repeat;
+    background-size: 100%    
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+.form1{
+    background-color:lightgrey;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.kms{
+    background-color:lightgrey;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+
+}
+
+input,textarea{
+    width: 100%;
+    padding: 1em;
+    border-style: solid;
+    border-color:darkgrey;
+}
+
+#conv2, #inputKilometers{
+    width:25%;
+}
+
+#submit{
+    width:10%;
+    padding: 0.5em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    background: green;
+    color:white;
+    border-radius: 10px;
+}
+
+label{
+    font-display: bold;
+    padding: 0.5em;
+}
+
+footer{
+    color: black;
+}
+
+#nwvideo{
+    grid-column-start: 1;
+    grid-row-start: 4;
+      
+
+}
+
+#noborder{
+    border-style:none;
+}
