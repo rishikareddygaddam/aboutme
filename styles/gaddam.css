@@ -71,7 +71,7 @@ table, th, td {
     border: 1px solid black;
   }
 
-.form1{
+.form1, {
     background-color:lightgrey;
     padding-top: 2em;
     padding-bottom: 2em;
@@ -79,7 +79,16 @@ table, th, td {
     padding-right: 2em;
 }
 
-.kms{
+.full{
+    background-color:lightgrey;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.concat{
+
     background-color:lightgrey;
     padding-top: 1em;
     padding-bottom: 1em;
@@ -90,16 +99,20 @@ table, th, td {
 
 input,textarea{
     width: 100%;
-    padding: 1em;
+    padding: 0.5em;
     border-style: solid;
     border-color:darkgrey;
 }
 
-#conv2, #inputKilometers{
-    width:25%;
+#conv2{
+    width:15%;
 }
 
-#submit{
+#firstname,#lastname{
+    width:40%;
+}
+
+#submit1{
     width:10%;
     padding: 0.5em;
     margin-top: 1em;
@@ -115,7 +128,8 @@ label{
 }
 
 footer{
-    color: black;
+    color: white;
+    text-align: center;
 }
 
 #nwvideo{
@@ -128,3 +142,23 @@ footer{
 #noborder{
     border-style:none;
 }
+
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color:lightgrey;
+    border: solid 1px #c3c3c3;
+  }
+
+  #flip:hover {
+    cursor: pointer;
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+  }
+
+  #aj {
+    background-color:lightgrey;
+  }
